@@ -17,7 +17,7 @@ I have a wide range of skills that include  using open source front-end developm
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikki0830&layout=compact&theme=dark)](https://github.com/Nikki0830/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=dark)](https://github.com/Nikki0830/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nikki0830&theme=dark)](https://github.com/Nikki0830/github-readme-stats)
 
 <p align=center>                           
   <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=Nikki0830.Nikki0830" alt="Visitors">                     
