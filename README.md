@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikki0830" alt="nikki0830" /></a> </p>
 
-- 💬 Ask me about **Data Structures and Algorithms, JavaScript, React and MongoDb**
+- 💬 Ask me about **HTML, Css, JavaScript, MongoDB, React, ExpressJs, NodeJs**
 
 - 📫 How to reach me **gniki0830@gmail.com**
 
