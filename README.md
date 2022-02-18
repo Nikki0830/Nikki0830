@@ -50,7 +50,7 @@
   </a> 
 </p>
 
- ### 👉 Software & Tools
+<!--  ### 👉 Software & Tools
  
 <p align="center">
   &emsp;
@@ -63,9 +63,9 @@
     <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-</p>
+</p> -->
 
- ### 👉 IDEs
+<!--  ### 👉 IDEs
  
 <p align="center">
   &emsp;
@@ -74,10 +74,10 @@
     <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
   &emsp;
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
-</p>
+</p> -->
 
 
-## 📊 Github Stats
+<!-- ## 📊 Github Stats
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
@@ -90,14 +90,7 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 
-
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/durgeshrai633"><img alt="durgeshrai633's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=durgeshrai633&custom_title=durgeshrai633's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-
-<br/>
+<br/> -->
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <p align="center">
