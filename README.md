@@ -8,9 +8,9 @@
 <hr/>
 <h5 align="center">I am a Full stack web developer. I am a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
-<p align="center"> 
+<!-- <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=durgeshrai633&label=Profile%20views&color=0e75b6&style=plastic" alt="Durgesh Kumar Rai" /> 
-</p>
+</p> -->
 
 <!-- ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=durgeshrai633&theme=algolia" alt="Durgesh Kumar Rai" /></p> -->
