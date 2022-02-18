@@ -1,3 +1,6 @@
+
+<img style="width:100%" src="https://github.com/AleemAlam/AleemAlam/raw/master/Images/full-stack-development.gif">
+
 <h1 align="center">Hi , I'm Nikita Patel<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/durgeshrai633/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=true&width=500&height=50"></a>
@@ -9,8 +12,8 @@
 	<img src="https://komarev.com/ghpvc/?username=durgeshrai633&label=Profile%20views&color=0e75b6&style=plastic" alt="Durgesh Kumar Rai" /> 
 </p>
 
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=durgeshrai633&theme=algolia" alt="Durgesh Kumar Rai" /></p>
+<!-- ## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=durgeshrai633&theme=algolia" alt="Durgesh Kumar Rai" /></p> -->
 
 
 ## 🛠️ My Skills
