@@ -49,7 +49,7 @@
  </a>
   	&emsp;
 	<a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started" target="_blank"> 
-     <img alt="React Native" src="https://th.bing.com/th/id/OIP.o2uYlnSqvU8GhrUG8DnwSwHaBZ?w=338&h=66&c=7&r=0&o=5&dpr=1.5&pid=1.7" width="55" height="55">
+     <img alt="React Native" src="https://th.bing.com/th/id/OIP.o2uYlnSqvU8GhrUG8DnwSwHaBZ?w=338&h=66&c=7&r=0&o=5&dpr=1.5&pid=1.7" width="55" height="25">
       </a>
   
 </p>
