@@ -6,7 +6,7 @@
   <a href="https://github.com/durgeshrai633/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=true&width=400&height=50"></a>
 </p>
 <hr/>
-<h5 align="center">I am a Full stack web developer. I am a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h5 align="center">I am a Frontend Developer. I am a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
 <!-- <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=durgeshrai633&label=Profile%20views&color=0e75b6&style=plastic" alt="Durgesh Kumar Rai" /> 
