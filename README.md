@@ -46,7 +46,12 @@
 	&emsp;
 	<a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started" target="_blank"> 
      <img alt="React" src="https://img.shields.io/badge/React%20-%23F7DF1E.svg?style=plastic&logo=react&logoColor=black">
-   </a>
+ </a>
+  	&emsp;
+	<a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started" target="_blank"> 
+     <img alt="React Native" src="[https://img.shields.io/badge/React%20-%23F7DF1E.svg?style=plastic&logo=react&logoColor=black](https://th.bing.com/th/id/OIP.mm8JucFufPWr2ls_I1h_0wHaDt?w=333&h=174&c=7&r=0&o=5&dpr=1.5&pid=1.7)">
+      </a>
+  
 </p>
 
 ### 👉 Backend Development
