@@ -4,7 +4,7 @@
 <h1 align="center">Hi , I'm Nikita Patel<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!-- <p align="center"> -->
 <!--   <a href="https://github.com/durgeshrai633/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=true&width=400&height=50"></a> -->
-	  <h2 align="center">Web and Android Developer     <img src="https://media.giphy.com/media/cfvBDRm4NkECY/giphy.gif" width="75" height="55"></h2>
+	  <h2 align="center">Web and Android Developer     <img src="https://media.giphy.com/media/cfvBDRm4NkECY/giphy.gif" width="55" ></h2>
 <!-- </p> -->
 <!-- 	<div class="container"> -->
 <!--   <h2 class="title"> -->
@@ -49,7 +49,7 @@
  </a>
   	&emsp;
 	<a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started" target="_blank"> 
-     <img alt="React Native" src="https://th.bing.com/th/id/OIP.o2uYlnSqvU8GhrUG8DnwSwHaBZ?w=338&h=66&c=7&r=0&o=5&dpr=1.5&pid=1.7" width="55">
+     <img alt="React Native" src="https://th.bing.com/th/id/OIP.o2uYlnSqvU8GhrUG8DnwSwHaBZ?w=338&h=66&c=7&r=0&o=5&dpr=1.5&pid=1.7" width="55" height="55">
       </a>
   
 </p>
