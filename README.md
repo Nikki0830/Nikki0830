@@ -6,7 +6,7 @@
 <!--   <a href="https://github.com/durgeshrai633/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=true&width=400&height=50"></a> -->
 	<div class="container">
 <!--   <h2 class="title"> -->
-    <h2 class="title-word" style = "animation: color-animation 4s linear infinite;">Web/Android Developer</h2>
+    <h2 class="title-word" style = "animation: color-animation 4s linear infinite; color:blue;text-align:center;">Web/Android Developer</h2>
 <!--     <span class="title-word title-word-2">is</span>
     <span class="title-word title-word-3">my</span>
     <span class="title-word title-word-4">text</span> -->
