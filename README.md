@@ -3,10 +3,10 @@
 
 <h1 align="center">Hi , I'm Nikita Patel<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!-- <p align="center"> -->
-<!--   <a href="https://github.com/durgeshrai633/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=true&width=400&height=50"></a> -->
+  <a href="https://github.com/durgeshrai633/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=true&width=400&height=50"></a>
 <!-- 	<div class="container"> -->
 <!--   <h2 class="title"> -->
-    <h2 style="color:blue;text-align:center;">Wb/Android Developer</h2>
+<!--     <h2 style="color:blue;text-align:center;">Wb/Android Developer</h2> -->
 <!--     <span class="title-word title-word-2">is</span>
     <span class="title-word title-word-3">my</span>
     <span class="title-word title-word-4">text</span> -->
