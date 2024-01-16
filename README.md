@@ -1,7 +1,7 @@
 
 <img style="width:100%" src="https://github.com/AleemAlam/AleemAlam/raw/master/Images/full-stack-development.gif">
 
-<h1 align="center" style=margin-left: 40px;>Hi , I'm Nikita Patel</h1>
+<h1 align="center" style=margin-left: 40px; color:"cyan">Hi , I'm Nikita Patel</h1>
 <!-- <p align="center"> -->
 <!--   <a href="https://github.com/durgeshrai633/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=true&width=400&height=50"></a> -->
 	  <h2 align="center">Frontend Developer     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS76MAHgw9WmfASD-w4JxvWBOVi_Ko6Hd1k7w&usqp=CAU" width="55" ></h2>
